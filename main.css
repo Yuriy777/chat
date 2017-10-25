@@ -1,0 +1,12 @@
+#result {
+    max-height: 500px;
+    overflow: auto;
+}
+#result>div {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.form-inline {
+    padding: 50px 10px;
+}
